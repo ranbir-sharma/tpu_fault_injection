@@ -1,7 +1,7 @@
 # Build 
 build/*
 .vscode
-models/*
+
 !models/cat.jpg
 !models/cat.npz
 !models/dog.npz
@@ -55,6 +55,9 @@ oneDNN/**/.DS_Store
 oneDNN/__pycache__
 
 # models
+!models/quant/*
+
+# models
 # oneDNN/
 # tpu-mlir/
 y
@@ -62,3 +65,6 @@ y.pub
 
 
 
+!models/quant/run.sh
+!models/quant/failed.txt
+models/*

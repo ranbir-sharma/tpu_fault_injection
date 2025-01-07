@@ -1,0 +1,608 @@
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 22, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 22, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 25, and random bit is 5
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 25, and random bit is 5
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 32, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 32, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 22, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 22, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 30, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 30, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 19, and random bit is 3
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 19, and random bit is 3
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 23, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 23, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 33, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 33, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 34, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 34, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 22, and random bit is 3
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 22, and random bit is 3
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 26, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 26, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 10, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 10, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 35, and random bit is 5
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 35, and random bit is 5
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 13, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 13, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 21, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 21, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 38, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 38, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 20, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 20, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 41, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 41, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 43, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 43, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 45, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 45, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 28, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 28, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 16, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 16, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 23, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 23, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 38, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 38, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 12, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 12, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 21, and random bit is 3
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 21, and random bit is 3
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 41, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 41, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 13, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 13, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 28, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 28, and random bit is 2
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 4, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 4, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 41, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 41, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 1, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 1, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 31, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 31, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 28, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 28, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 25, and random bit is 5
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 25, and random bit is 5
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 7, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 7, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 23, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 23, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 40, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 40, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 42, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 42, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 26, and random bit is 5
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 26, and random bit is 5
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 37, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 37, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 43, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 43, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 43, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 43, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 30, and random bit is 3
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 30, and random bit is 3
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 29, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 29, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 31, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 31, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 23, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 23, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 34, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 34, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 35, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 35, and random bit is 1
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 40, and random bit is 5
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 40, and random bit is 5
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 34, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 34, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 28, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 28, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 22, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 22, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 39, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 39, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 33, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 33, and random bit is 4
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 17, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 17, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 19, and random bit is 3
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 19, and random bit is 3
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 41, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 41, and random bit is 0
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 21, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 21, and random bit is 31
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 36, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+Added fault in layer 36, and random bit is 6
+ Top 5 values : [0.73828125 0.25390625 0.0078125  0.         0.        ]
+ Top 5 index : [386 101 385 999 331]
+
+[Model] : Quantized model
+This is 120 failures in 10,000 iterations
+
+SDC rate = 120 / 10,000 X 100 = 1.2%
+Benign rate = 100 - 1.2 = 98.8%
+
+Most Significant Bit: 14 cases out of 120 = 11.6% of 1.2 is due to faults in most Significant bit 

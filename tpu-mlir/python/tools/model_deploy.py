@@ -475,18 +475,18 @@ if __name__ == '__main__':
         tool.do_validate = False
     lowering_patterns = tool.lowering()
     # generate model
-    if args.not_gen_bmodel:
-        exit(0)
-    tpu_patterns = tool.build_model()
-    if not args.debug:
-        tool.cleanup()
-    else:
-        if not args.enable_maskrcnn:
-            tool.pack_profile()
+    # if args.not_gen_bmodel:
+    #     exit(0)
+    # tpu_patterns = tool.build_model()
+    # if not args.debug:
+    #     tool.cleanup()
+    # else:
+    #     if not args.enable_maskrcnn:
+    #         tool.pack_profile()
 
-    total_patterns = {**lowering_patterns, **tpu_patterns}
-    if args.patterns_count:
-        for k, v in args.patterns_count.items():
-            assert k in total_patterns and v == total_patterns[k], \
-            "The number of times {} was applied does not meet the requirements. Expected {}, got {}" \
-            .format(k, v, total_patterns.get(k))
+    # total_patterns = {**lowering_patterns, **tpu_patterns}
+    # if args.patterns_count:
+    #     for k, v in args.patterns_count.items():
+    #         assert k in total_patterns and v == total_patterns[k], \
+    #         "The number of times {} was applied does not meet the requirements. Expected {}, got {}" \
+    #         .format(k, v, total_patterns.get(k))

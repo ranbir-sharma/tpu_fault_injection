@@ -132,7 +132,7 @@ struct xbyak_gemm_t : public jit_generator {
             } else {
                 vmulps(reg1, reg1, reg0);
                 vaddps(reg2, reg2, reg1);
-                vxorps(reg2, reg2, reg2);
+                // vxorps(reg2, reg2, reg2);
                 
             }
         }
