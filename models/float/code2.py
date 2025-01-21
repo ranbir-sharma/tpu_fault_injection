@@ -7,8 +7,12 @@ top_values = []  # To store top 5 values
 top_indices = []  # To store top 5 indices
 values = {}
 
+for i in range(1, 54):
+    values[i] = 0
+
+ 
 # Open and read the file
-with open("failed.txt", "r") as file:
+with open("failed3.txt", "r") as file:
     content = file.read()
 
 # Find all "Fault in layer X and bit Y" entries
@@ -28,16 +32,22 @@ for i in range(len(fault_matches)):
     value = values.get(layer, 0)
     values[layer] = value + 1
     
-
+values = dict(sorted(values.items()))
 x = list(values.keys())
 y = list(values.values())
 
+print(len(x))
+print(len(y))
+
+plt.figure(figsize=(12, 6)) 
 plt.bar(x, y)
+plt.xticks(ticks=x, labels=x, rotation=45, ha='right')
 
 # Add labels and title
-plt.xlabel('Layer Number')
-plt.ylabel('Fault Injection')
-plt.title('Bar Graph')
+plt.xlabel('Convolution Layer Number')
+plt.ylabel('Number of SDC Instance')
+plt.title('Distribution of SDC Instances Across Convolutional Layers')
+plt.tight_layout()
 
 # Show the plot
 plt.savefig('bar_graph.png')

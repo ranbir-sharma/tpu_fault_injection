@@ -1,0 +1,302 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 7 and bit 23
+Top 5 values are: [9.6569845e+36 9.4434633e+36 7.9371692e+36 7.7970983e+36 6.5537644e+36]
+Top 5 index are: [722 916 409 736 892]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 7 and bit 5
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 12 and bit 6
+Top 5 values are: [2.7876340e+36 2.5355744e+36 2.5285968e+36 2.3857950e+36 2.3377020e+36]
+Top 5 index are: [916 722 732 736 692]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 20 and bit 14
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 16 and bit 13
+Top 5 values are: [1.5088640e+37 1.3871231e+37 1.2759484e+37 1.2678282e+37 1.2570295e+37]
+Top 5 index are: [722 916 968 638 723]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 16 and bit 25
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 374 372 370 367]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 2 and bit 29
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 5 and bit 1
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 10 and bit 8
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 22 and bit 15
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 12 and bit 26
+Top 5 values are: [2.0025922e+37 1.4099241e+37 1.3954470e+37 1.3092468e+37 1.1599227e+37]
+Top 5 index are: [722 916 736 872 968]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 18 and bit 11
+Top 5 values are: [1.6692021e+37 1.1828947e+37 1.0947584e+37 1.0917893e+37 1.0902667e+37]
+Top 5 index are: [446 868 920 916 921]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 22 and bit 28
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 323 351 350 349]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 13 and bit 11
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 18 and bit 29
+Top 5 values are: [1.1976616e+37 8.1956330e+36 7.9135104e+36 7.5783335e+36 7.3724822e+36]
+Top 5 index are: [446 868 549 916 722]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 6 and bit 11
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 10 and bit 30
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 8 and bit 26
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 16 and bit 5
+Top 5 values are: [1.7470309e+37 1.4873365e+37 1.3050156e+37 1.1282810e+37 1.1093605e+37]
+Top 5 index are: [723 457 968 906 446]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 14 and bit 29
+Top 5 values are: [3.2145512e+36 3.1678284e+36 2.6802979e+36 2.6023526e+36 2.5390688e+36]
+Top 5 index are: [916 722 736 638 624]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 14 and bit 30
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 411 427 426 424]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 3 and bit 31
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 18 and bit 6
+Top 5 values are: [1.2208732e+37 9.0986750e+36 8.4648104e+36 8.0518270e+36 6.9275825e+36]
+Top 5 index are: [446 916 722 549 333]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 22 and bit 1
+Top 5 values are: [1.6172999e+35 1.5793712e+35 1.5596964e+35 1.5055848e+35 1.5016445e+35]
+Top 5 index are: [486 479 551 446 636]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 23 and bit 18
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 18 and bit 12
+Top 5 values are: [1.6111370e+36 1.4183381e+36 1.3599956e+36 1.3321033e+36 1.3205726e+36]
+Top 5 index are: [778 644 417 826 613]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 3 and bit 19
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 17 and bit 17
+Top 5 values are: [inf inf inf inf inf]
+Top 5 index are: [178 630 613 614 199]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 13 and bit 22
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 18 and bit 25
+Top 5 values are: [5.3896897e+36 4.0851904e+36 4.0364866e+36 3.1699372e+36 3.1059338e+36]
+Top 5 index are: [446 916 620 624 602]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 17 and bit 13
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 21 and bit 30
+Top 5 values are: [5.9437196e+36 5.8294231e+36 5.2763491e+36 4.6976745e+36 4.1337034e+36]
+Top 5 index are: [632 650 722 862 598]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 21 and bit 8
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 2 and bit 8
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 23 and bit 5
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 14 and bit 10
+Top 5 values are: [1.5719563e+37 1.5193425e+37 1.4786077e+37 1.3834786e+37 1.3356436e+37]
+Top 5 index are: [722 598 916 421 664]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 21 and bit 0
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 339 356 355 354]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 18 and bit 1
+Top 5 values are: [1.61120594e+36 1.30309538e+36 1.27577363e+36 1.20424446e+36
+ 1.20099048e+36]
+Top 5 index are: [920 644 722 404 613]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 22 and bit 3
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 23 and bit 20
+Top 5 values are: [inf inf inf inf inf]
+Top 5 index are: [184 210 616 617 215]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 21 and bit 21
+Top 5 values are: [4.5992658e+36 4.1069430e+36 3.9354619e+36 3.9044285e+36 3.3768380e+36]
+Top 5 index are: [722 846 712 619 446]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 15 and bit 10
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 21 and bit 23
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 18 and bit 30
+Top 5 values are: [1.2919677e+37 1.1486897e+37 1.0451015e+37 9.6156052e+36 9.5161187e+36]
+Top 5 index are: [446 916 722 620 333]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 7 and bit 8
+Top 5 values are: [inf inf inf inf inf]
+Top 5 index are: [999 481 185 184 314]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 13 and bit 13
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 18 and bit 19
+Top 5 values are: [2.3143586e+36 1.9494275e+36 1.8246381e+36 1.7464996e+36 1.7074941e+36]
+Top 5 index are: [916 722 692 644 620]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 19 and bit 23
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 9 and bit 13
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 16 and bit 29
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 383 378 376 375]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 17 and bit 5
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 20 and bit 5
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 347 345 344 343]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 16 and bit 0
+Top 5 values are: [1.30430941e+37 1.05165815e+37 1.03114572e+37 9.48180465e+36
+ 8.56140221e+36]
+Top 5 index are: [722 723 398 779 699]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 13 and bit 31
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 22 and bit 0
+Top 5 values are: [1.4379857e+37 1.2278048e+37 1.1809550e+37 1.1794907e+37 1.1091182e+37]
+Top 5 index are: [498 446 632 754 712]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 10 and bit 1
+Top 5 values are: [2.2896690e+36 2.0441921e+36 2.0204383e+36 1.9357153e+36 1.8493564e+36]
+Top 5 index are: [916 711 968 722 673]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 20 and bit 10
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 329 342 341 340]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 9 and bit 18
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 9 and bit 17
+Top 5 values are: [nan nan nan nan nan]
+Top 5 index are: [999 328 341 340 339]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Fault in layer 21 and bit 1
+Top 5 values are: [7.3246132e+36 6.9622946e+36 6.9168943e+36 6.4604571e+36 6.1751330e+36]
+Top 5 index are: [463 659 790 417 506]
+

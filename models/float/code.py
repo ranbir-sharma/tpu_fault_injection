@@ -4,7 +4,7 @@ import sys
 # Load the .npz file
 data = np.load('resnet50_tf_bm1684x_f32_tpu_outputs.npz')
 
-filename = "failed.txt"
+filename = "failed1.txt"
 
 def writeToFile(top5Values, top5Index, layerNumber, BitNumber):
     with open(filename, "a") as file:
