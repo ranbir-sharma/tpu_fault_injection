@@ -42,6 +42,7 @@ print(len(y))
 plt.figure(figsize=(12, 6)) 
 plt.bar(x, y)
 plt.xticks(ticks=x, labels=x, rotation=45, ha='right')
+plt.axvline(x=26, color='red', linestyle='--', linewidth=2, label='x = 26')
 
 # Add labels and title
 plt.xlabel('Convolution Layer Number')
